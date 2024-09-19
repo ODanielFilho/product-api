@@ -5,7 +5,6 @@ import com.ODanielFilho.product_api.entity.dto.ProductDTO;
 import com.ODanielFilho.product_api.entity.dto.ProductResponseDTO;
 import com.ODanielFilho.product_api.service.ProductService;
 import io.swagger.v3.oas.annotations.Operation;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
